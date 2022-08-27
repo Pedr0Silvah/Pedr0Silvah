@@ -1,6 +1,7 @@
 ### Olá, eu sou o Pedro Silva! 👋
 
 - Futuro Business Intelligence Analyst
+- Téc. Redes de Computadores, em formação
 - Estudando Pyhton
 - Estudando MySQL
 
