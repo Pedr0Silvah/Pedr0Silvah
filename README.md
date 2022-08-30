@@ -4,11 +4,9 @@
 
 - Téc. Redes de Computadores, em formação 💻
  
-- Atualmente estou estudando Pyhton, MySQL, Power BI e Excel 📚
+- Atualmente estou estudando Pyhton, MySQL e Power BI 📚
  
-- Entre em contato comigo através do e-mail: pedrohenriquealves112005@gmail.com 
-
-- Entre em contato comigo através do Linkedin: https://www.linkedin.com/in/pedro-silva-1032a7243
+- Entre em contato comigo através do e-mail: pedrohenriquealves112005@gmail.com 📧
 
 </div>
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
