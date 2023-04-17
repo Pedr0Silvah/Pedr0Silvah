@@ -1,11 +1,9 @@
-### Olá, eu sou o Pedro Silva! 👋
+### Olá, meu nome é Pedro Silva! 👋
 
-- Futuro Business Intelligence Analyst 📊
-
+Conhecimentos:
+- Dev Python Jr
 - Téc. Redes de Computadores, em formação 💻
- 
-- Atualmente estou estudando Pyhton, MySQL e Power BI 📚
- 
+- Análise de dados com Microsoft Power BI 
 - Entre em contato comigo através do e-mail: pedrohenriquealves112005@gmail.com 📧
 
 </div>
